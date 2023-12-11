@@ -20,7 +20,7 @@ body {
 .first .header {
   padding-right: 84px;
   background-color: rgb(241, 241, 243);
-  max-width: 1600px;
+  max-width: 1400px;
   margin: auto;
   overflow: hidden;
   border-radius: 0 0 100px 0;
@@ -28,7 +28,7 @@ body {
 .first .header header .wrapper {
   background-color: rgb(242, 115, 59);
   margin: auto;
-  max-width: 1600px;
+  max-width: 1400px;
   height: 550px;
   border-radius: 0 0 100px 0;
 }
